@@ -1175,10 +1175,10 @@
         "IERC20"
       ]
     },
-    "/Users/jessicagreene/Desktop/Git Hub/Rockin-Kittens-NFT/contracts/RockinKittenNFT.sol": {
+    "/Users/jessicagreene/Desktop/Git Hub/Rockin-Kittens-NFT/contracts/CryptoNutscapesNFT.sol": {
       "lastModificationDate": 1667788470883,
       "contentHash": "7f847f63c3f3d2a38c05d862f0deee90",
-      "sourceName": "contracts/RockinKittenNFT.sol",
+      "sourceName": "contracts/CryptoNutscapesNFT.sol",
       "solcConfig": {
         "version": "0.8.11",
         "settings": {
@@ -1214,7 +1214,7 @@
         "^0.8.11"
       ],
       "artifacts": [
-        "RockinKittenNFT"
+        "CryptoNutscapesNFT"
       ]
     },
     "/Users/jessicagreene/Desktop/Git Hub/Rockin-Kittens-NFT/node_modules/@openzeppelin/contracts/access/Ownable.sol": {

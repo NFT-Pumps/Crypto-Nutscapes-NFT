@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-artifact-1",
-  "contractName": "RockinKittenNFT",
-  "sourceName": "contracts/RockinKittenNFT.sol",
+  "contractName": "CryptoNutscapesNFT",
+  "sourceName": "contracts/CryptoNutscapesNFT.sol",
   "abi": [
     {
       "inputs": [
@@ -1082,7 +1082,7 @@
               "type": "uint8"
             }
           ],
-          "internalType": "struct RockinKittenNFT.WhitelistClaimPass",
+          "internalType": "struct CryptoNutscapesNFT.WhitelistClaimPass",
           "name": "whitelistClaimPass",
           "type": "tuple"
         }
